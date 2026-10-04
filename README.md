@@ -26,3 +26,5 @@ Code and summaries were authored for Group 12 from user-supplied materials. Sour
 The overview distinguishes established requirements from open scope questions. Meetings is a read-only archive, currently containing Meeting 01 and its original PDF. To add a record, copy the meeting article in `meetings.html`, update its date, attendance and summary, and place its minutes PDF under `sources/` with the corresponding link. No backend or browser storage is used.
 
 Overview, About the project, and Meetings are separate static pages: `dashboard.html`, `about.html`, and `meetings.html`. Navigation uses ordinary page links.
+
+The deployed homepage is `index.html`, which contains the current overview. `dashboard.html` remains a compatible copy for existing links. The original project brief is preserved as `project-brief.html`.
